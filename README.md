@@ -1,1 +1,1 @@
-# tipos-de-estrelas
+# Estrelas, Quasares e Galáxias - Redes Neurais
